@@ -1,0 +1,6 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    align-items: center;
+}

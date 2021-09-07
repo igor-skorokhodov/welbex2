@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter'), url("fonts/Inter/Inter-VariableFont_slnt_wght.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter'), url("fonts/Inter/Inter-VariableFont_slnt_wght.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter'), url("fonts/Inter/Inter-VariableFont_slnt_wght.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 900;
+}
